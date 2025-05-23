@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92602857821",
+    "firebase_url": "https://capstong-76534-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "capstong-76534",
+    "storage_bucket": "capstong-76534.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92602857821:android:c4622157aa9542d8dcd0b4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92602857821-5r98eli47g4ef81m39a13rqd777gkb1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "bb6ac4527f3f97011c9d26dc377c5732a35f3ba9"
+          }
+        },
+        {
+          "client_id": "92602857821-apdb9f4hkupbqiu63tiok360mfjqd3m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2aIFeRuqp_6b2PKcIAEaTCkBA4Q4nyi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92602857821-apdb9f4hkupbqiu63tiok360mfjqd3m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
